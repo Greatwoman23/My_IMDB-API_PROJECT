@@ -1,7 +1,5 @@
-# Welcome to My Imdb Api
-***
 
-## Task
+##Task
 The task is to create backend API to allow a user to search for a movie search by genre.
 Your backend will receive a requested genre and will only serve movies with the corresponding genre.
 The client requests all Action movies.
